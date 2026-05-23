@@ -1,4 +1,4 @@
-# Sifted Protocol
+# Sifted Network
 
 > Connect Your Knowledge. Empower Your Agents.
 
